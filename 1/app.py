@@ -4,7 +4,7 @@ import requests
 import os
 from time import time
 from multiprocessing.pool import ThreadPool
-####input for singlr thread
+####input for single thread
 ##url = 'https://www.python.org/static/img/python-logo@2x.png'
 
 ####input for multi thread
